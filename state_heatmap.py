@@ -8,7 +8,6 @@ series = df['state'].value_counts()
 
 
 heatmap_df = pd.DataFrame({'state':series.index, 'shootings':series.values})
-print(heatmap_df)
 
 fig = px.choropleth(heatmap_df,
                     locations='state', 

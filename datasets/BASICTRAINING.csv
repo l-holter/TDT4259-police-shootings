@@ -1,53 +1,52 @@
-﻿STATE;POLICE BASIC TRAINING HOURS;POLICE OFFICER MINIMUM AGE;MONTHS POLICE CAN WORK UNTRAINED
-Alabama;520;19;6
-Alaska;650;21;6
-Arizona;585;21;0
-Arkansas;520;21;12
-California;664;18;0
-Colorado;556;21;0
-Connecticut;1321;21;0
-Delaware;584;18;0
-Florida;770;18;6
-Georgia;408;18;0
-Hawaii;0;21;99
-Idaho;600;21;12
-Illinois;560;21;6
-Indiana;600;21;12
-Iowa;620;18;12
-Kansas;560;21;NULL
-Kentucky;800;21;12
-Louisiana;450;21;12
-Maine;720;20;12
-Maryland;750;18;12
-Massachusettes;812;18;9
-Michigan;680;18;0
-Minnesota;1050;21;0
-Mississippi;490;21;24
-Missouri;600;21;NULL
-Montana;480;18;12
-Nebraska;626;21;12
-Nevada;680;21;12
-New Hampshire;640;18;6
-New Jersey;880;18;18
-New Mexico;677;19;12
-New York;700;21;12
-North Carolina;640;20;0
-North Dakota;480;21;NULL
-Ohio;737;18;0
-Oklahoma;576;21;6
-Oregon;640;21;18
-Pennsylvania;859;18;0
-Rhode Island;880;18;0
-South Carolina;480;21;12
-South Dakota;520;21;12
-Tennessee;480;18;6
-Texas;696;21;12
-Utah;640;21;0
-Vermont;792;18;12
-Virgina;480;18;12
-Washington;720;21;6
-Washington D.C.*;960;21;0
-West Virginia;800;21;3
-Wisconsin;720;18;12
-Wyoming;598;18;12
-;;;
+﻿STATE,STATE CODE,POLICE BASIC TRAINING HOURS,POLICE OFFICER MINIMUM AGE,MONTHS POLICE CAN WORK UNTRAINED
+Alabama,AL,520,19,6
+Alaska,AK,650,21,6
+Arizona,AZ,585,21,0
+Arkansas,AR,520,21,12
+California,CA,664,18,0
+Colorado,CO,556,21,0
+Connecticut,CT,1321,21,0
+Delaware,DE,584,18,0
+Florida,FL,770,18,6
+Georgia,GA,408,18,0
+Hawaii,HI,0,21,99
+Idaho,ID,600,21,12
+Illinois,IL,560,21,6
+Indiana,IN,600,21,12
+Iowa,IA,620,18,12
+Kansas,KS,560,21,NULL
+Kentucky,KY,800,21,12
+Louisiana,LA,450,21,12
+Maine,ME,720,20,12
+Maryland,MD,750,18,12
+Massachusettes,MA,812,18,9
+Michigan,MI,680,18,0
+Minnesota,MN,1050,21,0
+Mississippi,MS,490,21,24
+Missouri,MO,600,21,NULL
+Montana,MT,480,18,12
+Nebraska,NE,626,21,12
+Nevada,NV,680,21,12
+New Hampshire,NH,640,18,6
+New Jersey,NJ,880,18,18
+New Mexico,NM,677,19,12
+New York,NY,700,21,12
+North Carolina,NC,640,20,0
+North Dakota,ND,480,21,NULL
+Ohio,OH,737,18,0
+Oklahoma,OK,576,21,6
+Oregon,OR,640,21,18
+Pennsylvania,PA,859,18,0
+Rhode Island,RI,880,18,0
+South Carolina,SC,480,21,12
+South Dakota,SD,520,21,12
+Tennessee,TN,480,18,6
+Texas,TX,696,21,12
+Utah,UT,640,21,0
+Vermont,VT,792,18,12
+Virgina,VA,480,18,12
+Washington,WA,720,21,6
+Washington D.C.,DC,960,21,0
+West Virginia,WV,800,21,3
+Wisconsin,WI,720,18,12
+Wyoming,WY,598,18,12
